@@ -1,0 +1,77 @@
+Searching for BB(2, 4)
+bb_steps: 0
+upper_bound: 1024
+Analyzing machine with id 0
+new_candidate: 2
+new_candidate: 3
+new_candidate: 5
+new_candidate: 6
+new_candidate: 9
+new_candidate: 13
+50000 machines discovered
+100000 machines discovered
+new_candidate: 26
+150000 machines discovered
+200000 machines discovered
+250000 machines discovered
+new_candidate: 29
+300000 machines discovered
+Analyzing machine with id 50000
+new_candidate: 38
+350000 machines discovered
+400000 machines discovered
+450000 machines discovered
+500000 machines discovered
+550000 machines discovered
+600000 machines discovered
+650000 machines discovered
+Analyzing machine with id 100000
+700000 machines discovered
+750000 machines discovered
+Analyzing machine with id 150000
+new_candidate: 47
+Analyzing machine with id 200000
+Analyzing machine with id 250000
+new_candidate: 60
+Analyzing machine with id 300000
+800000 machines discovered
+new_candidate: 78
+Analyzing machine with id 350000
+new_candidate: 124
+Analyzing machine with id 400000
+Analyzing machine with id 450000
+850000 machines discovered
+Analyzing machine with id 500000
+Analyzing machine with id 550000
+Analyzing machine with id 600000
+900000 machines discovered
+Analyzing machine with id 650000
+Analyzing machine with id 700000
+Analyzing machine with id 750000
+new_candidate: 170
+new_candidate: 592
+Analyzing machine with id 800000
+new_candidate: 770
+new_candidate: 1021
+Analyzing machine with id 850000
+Analyzing machine with id 900000
+bb_steps: 1021
+upper_bound: 15315
+Analyzing machine with id 200000
+Analyzing machine with id 250000
+Analyzing machine with id 300000
+Analyzing machine with id 350000
+Analyzing machine with id 400000
+Analyzing machine with id 500000
+Analyzing machine with id 550000
+Analyzing machine with id 700000
+new_candidate: 2351
+new_candidate: 6445
+new_candidate: 7195
+bb_steps: 7195
+upper_bound: 107925
+Killed
+
+real 638m37,739s
+user 636m8,646s
+sys 0m11,667s
